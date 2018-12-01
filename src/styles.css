@@ -18,9 +18,7 @@ body {
     left: 0;
 }
 .information {
-    margin: auto;
     color: navy;
-    position: absolute;
     width: 300px;
    margin: 0 auto;
     font-size: 30px;
